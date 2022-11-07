@@ -3,14 +3,14 @@
 
 
 
-
+# Script to get the hash signature of a function in Solidity using Hardhat Deployment framework. 
 
 
 ## Spin up a local hardhat node<br>
-**npx hardhat node**
+    **npx hardhat node**
 
 ## Deploy the contract on hardhat localhost<br>
-**npx hardhat dep)loy  --network localhost** 
+    **npx hardhat dep)loy  --network localhost** 
 
 ## Get the signature hash of the "set" function located in `Store.sol`<br>
-**npx hardhat run scripts/hash.js
+    **npx hardhat run scripts/hash.js**
