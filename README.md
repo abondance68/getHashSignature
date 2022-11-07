@@ -13,4 +13,4 @@
   **`npx hardhat dep)loy  --network localhost`** 
 
 ## Get the signature hash of the "set" function located in `Store.sol`<br>
-  **`npx hardhat run scripts/hash.js`**
+  **`npx hardhat run scripts/SigHash.js`**
